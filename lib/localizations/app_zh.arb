@@ -1,0 +1,49 @@
+{
+  "chats": "历史",
+  "favorite": "收藏",
+  "about": "关于",
+  "settings": "设置",
+
+  "question": "给ChatGPT发消息...",
+
+  "dark_mode": "深色模式",
+  "dark_mode_auto": "跟随系统",
+  "dark_mode_light": "普通模式",
+  "dark_mode_dark": "深色模式",
+
+  "start_with_hello": "从你好开始吧。",
+
+  "confirm": "确认",
+  "action_cancel": "取消",
+
+  "app_desc_short": "开源版的 ChatGPT 客户端。",
+  "app_desc": "ChatGPT Plus太贵？试试直接使用 OpenAI 的 API 吧，用多少，花多少。",
+
+  "ok": "确认",
+  "retry": "重试",
+
+  "try_these_out": "试试这些",
+  "try_this": "尝试这样问我：",
+
+  "app_name": "Chat",
+
+  "copy_success": "已复制到剪贴板。",
+  "save_success": "已保存。",
+
+  "confirm_delete": "为确认删除操作，请核实您的操作。",
+  "text_delete": "删除",
+
+  "favorite_prompt": "您还没有收藏任何内容，赶快收藏优秀的内容吧！",
+  "collect_success": "收藏成功！请在“收藏”中查看。",
+
+  "label_max_tokens": "最大 Token 数: ",
+  "label_max_prompt": "最大 Prompt Token 数: ",
+  "max_prompt_desc": "消耗Token更多，记忆力更强。",
+  "save_settings": "保存设置",
+  "label_use_private_baseurl": "API Service BaseUrl: (可以使用你自己的服务地址)",
+  "label_api_key": "API_KEY（防止API_KEY泄漏）",
+
+  "text_chat_deleted": "记录已删除",
+  "title_language": "语言",
+  "main_welcome": "欢迎回来"
+}

@@ -1,0 +1,50 @@
+{
+  "chats": "History",
+  "favorite": "Favorites",
+  "about": "About",
+  "settings": "Settings",
+
+  "question": "Message GPT...",
+
+  "dark_mode": "Dark Mode",
+  "dark_mode_auto": "Auto",
+  "dark_mode_light": "Light",
+  "dark_mode_dark": "Dark",
+
+  "start_with_hello": "Start by saying hello.",
+
+  "confirm": "Confirm",
+  "action_cancel": "Cancel",
+
+  "app_desc_short": "Open-source version of the ChatGPT client.",
+  "app_desc": "Is ChatGPT Plus too expensive? Try using OpenAI's API directly, pay as you go.",
+
+  "ok": "OK",
+  "retry": "Retry",
+
+  "try_these_out": "Try these out",
+  "try_this": "Try this: ",
+
+  "app_name": "Chat",
+
+  "copy_success": "Copied to clipboard.",
+  "save_success": "Saved.",
+
+  "confirm_delete": "To confirm the deletion of data, please verify your action.",
+  "text_delete": "Delete",
+
+  "favorite_prompt": "You haven't saved any favorites yet. Quickly save some excellent content!",
+  "collect_success": "Add to favorites successful! Check it out in your Favorites.",
+
+  "label_max_tokens": "Max Tokens: ",
+  "label_max_prompt": "Max Prompt: ",
+  "max_prompt_desc": "Consuming more tokens results in stronger memory.",
+  "save_settings": "Save settings",
+
+  "label_use_private_baseurl": "API Service BaseUrl: (You can use your server url)",
+  "label_api_key": "API_KEY (Prevent API_KEY leakage) ",
+
+  "text_chat_deleted": "It has been deleted.",
+  "title_language": "language",
+  "main_welcome": "Welcome Back"
+}
