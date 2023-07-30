@@ -10,7 +10,7 @@ import '../utils/logger.dart';
 import '../utils/utils.dart';
 
 const defaultOpenAiBaseUrl = "https://api.openai.com/";
-const defaultApiKey = "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";
+const defaultApiKey = "Your API-KEY";
 
 Future<Chat> newAndActiveConversation() async {
   // remove temp messages
@@ -85,6 +85,8 @@ Future<void> _createStream(Message promptMessage, Message assistMessage,
   if (apiKey.isEmpty) {
     throw Exception("Invalid api key: $apiKey");
   }
+
+  OpenAI.baseUrl = SettingsStates.settings.openAiBaseUrl;
   OpenAI.apiKey = apiKey;
 
   OpenAI openAI = OpenAI.instance;

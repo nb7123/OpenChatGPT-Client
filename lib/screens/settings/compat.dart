@@ -42,7 +42,7 @@ class SettingsOpenAiCompat extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AxionAppBar(
-        title: Text(AppLocalizations.of(context)!.title_language),
+        title: Text(AppLocalizations.of(context)!.settings),
         actions: const [],
       ),
       body: const OpenAIConfigScreen(),

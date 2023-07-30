@@ -108,6 +108,10 @@ class SettingsStates {
     return SystemSettings()
       ..theme = settings.theme
       ..model = settings.model
+      ..openAiBaseUrl = settings.openAiBaseUrl
+      ..openAiApiKey = settings.openAiApiKey
+      ..contextWindow = settings.contextWindow
+      ..maxPromptTokens = settings.maxPromptTokens
       ..locale = settings.locale;
   }
 

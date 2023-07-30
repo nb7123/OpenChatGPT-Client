@@ -1,4 +1,5 @@
 import 'package:dart_openai/dart_openai.dart';
+import 'package:open_chatgpt/utils/logger.dart';
 import 'package:tiktoken/tiktoken.dart';
 
 import '../model/openai.dart';
@@ -26,6 +27,7 @@ class Utils {
 
     numTokens += 3; // every reply is primed with <|start|>assistant<|message|>
 
+    AppLogger.log("Message tokens: $numTokens, $message");
     return numTokens;
   }
 
