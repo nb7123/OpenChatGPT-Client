@@ -8,7 +8,7 @@
 
 您可以自由的使用这里面的所有代码。
 
-客户端可以独立使用，但是防止您的API_KEY泄漏，建议[部署](这里是部署的链接)对应的[服务端]()程序，然后配置您自己的服务器，将 ***API_KEY*** 配置在服务端使用。
+客户端可以独立使用，但是防止您的API_KEY泄漏，建议部署对应的[服务端](https://github.com/nb7123/OpenChatGPT-server)程序，然后配置您自己的服务器，将 ***API_KEY*** 配置在服务端使用。
 
 * 如果您需要优秀的**Prompt**，可以参考[这里](https://github.com/f/awesome-chatgpt-prompts)。
 
@@ -82,5 +82,3 @@ flutter build windows
 ![](/Users/didi/Code/Github/Easy-AI/open_chatgpt/resources/apple-store.png) 
 
 [**Apple Store**](https://apps.apple.com/cn/app/axion-powerful-ai-chatbot/id6452236314)
-
-https://apps.apple.com/cn/app/axion-powerful-ai-chatbot/id6452236314)

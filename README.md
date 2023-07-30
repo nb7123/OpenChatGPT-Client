@@ -6,13 +6,13 @@ A fully open-source, cross-platform ChatGPT client. Supporting **Android** / **i
 
 ## Overview
 
-Due to OpenAI's restrictions in certain countries, many people are unable to conveniently access the **ChatGPT** client. To address this issue, I have developed a fully open-source solution. It includes a client implemented using **Flutter** and a [**server**]() program implemented in **Go**, which can help these users overcome this limitation. You can also customize and build personalized applications for your own team or yourself.
+Due to OpenAI's restrictions in certain countries, many people are unable to conveniently access the **ChatGPT** client. To address this issue, I have developed a fully open-source solution. It includes a client implemented using **Flutter** and a [**server**](https://github.com/nb7123/OpenChatGPT-server) program implemented in **Go**, which can help these users overcome this limitation. You can also customize and build personalized applications for your own team or yourself.
 
 You are free to use all the code here.
 
 The client can be used independently, but to prevent your **API_KEY** from being leaked, it is recommended to deploy the corresponding server program (link to deployment here), and then configure your own server to use the **API_KEY**.
 
-Please refer to the server-side program [**here**]().
+Please refer to the server-side program [**here**](https://github.com/nb7123/OpenChatGPT-server).
 
 * If you need excellent **Prompt**, you can refer to [**here**](https://github.com/f/awesome-chatgpt-prompts).
 
@@ -59,8 +59,6 @@ flutter build windows
 If you are not a professional developer, you can simply use our released app to support us.
 
  [**Axion**](https://www.easy-ai.us/) 😊😊😊.
-
-。。。
 
 ## Contribution
 
